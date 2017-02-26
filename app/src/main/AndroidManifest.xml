@@ -17,7 +17,9 @@
         </activity>
         <activity android:name=".Forget_pass" />
         <activity android:name=".register_seller" />
-        <activity android:name=".register_buyer"></activity>
+        <activity android:name=".register_buyer" />
+        <activity android:name=".home1" />
+        <activity android:name=".home2"></activity>
     </application>
 
 </manifest>
