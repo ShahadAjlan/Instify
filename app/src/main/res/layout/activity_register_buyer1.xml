@@ -204,6 +204,7 @@
         android:layout_height="wrap_content"
         android:text="أنشاء حساب"
         android:id="@+id/button3"
+        android:layout_alignParentBottom="true"
         android:layout_alignRight="@+id/radioButton"
         android:layout_alignEnd="@+id/radioButton"
         android:background="@color/accent_material_dark"

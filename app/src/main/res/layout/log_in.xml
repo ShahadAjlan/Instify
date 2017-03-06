@@ -144,7 +144,7 @@
         android:layout_height="50dp"
         android:background="@drawable/file9"
         android:id="@+id/imageButton"
-        android:layout_alignTop="@+id/imageButton2"
+        android:layout_alignParentBottom="true"
         android:layout_toRightOf="@+id/imageButton2"
         android:layout_toEndOf="@+id/imageButton2" />
 

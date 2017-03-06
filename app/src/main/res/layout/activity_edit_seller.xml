@@ -121,6 +121,7 @@
         android:layout_height="wrap_content"
         android:text="حفظ"
         android:id="@+id/button3"
+        android:layout_alignParentBottom="true"
         android:background="@color/accent_material_dark"
         android:textColor="@color/abc_primary_text_material_dark"
         android:textStyle="bold"
