@@ -19,7 +19,10 @@
         <activity android:name=".register_seller" />
         <activity android:name=".register_buyer" />
         <activity android:name=".home1" />
-        <activity android:name=".home2"></activity>
+        <activity android:name=".home2" />
+        <activity android:name=".Buyer_account" />
+        <activity android:name=".Edit_buyer" />
+        <activity android:name=".Edit_seller"></activity>
     </application>
 
 </manifest>
